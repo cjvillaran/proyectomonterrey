@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-monterrey",
+  "private_key_id": "b52154fe0cafa744dcf1b7743f370c4d825a5f65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/XDYy5oMdxqeo\ncLLYUqVDHABfE/R5eAbpcOKEnqq05pQghAubB00XEWVOOEA9qpFRWnIwuJPGQByG\nfntPSmvzDEIVmYcIVer0GJH8zvcbRvHcJc3GbrElJkHlJ+YR6IL7mInmRtZlqiHL\ngGjiFWVZBnAZmwiax+htY7qil4aZMNvAjsTwyeHiuNIwRXlB69ysNNSOpGVaOtE7\ntBQAXS6ChweFM9dibtiZ2WgRBvxcgLoWezowfpY37jtIToaTvxQoUwsbBShow18N\nVoTfDXEgrbMloHr6bxeFpDoc46X6szEtaU2ZxXGEebGwfXVs+wTQXZuReJK0RoqT\nqBgilKMrAgMBAAECggEAUNRf9mck+hZX6k/UU4ixUuQIiiCxMv/Ol5t9qvwkai49\nYnC0QEM4vmY0LvKWvBWItV7pfgfxL5wUEIFrj6YFbBAA+AO2JIC6MmoQfENl4Gk6\nrz1uqoNGI0WCLwwH5AedEC4yDYlddWsERGPUqa7U9OJBxqcUXuDTHiWyh4xOp/Te\nI3bPgqgcwtKd1S2AkyX1S6Tx3L+vRb3WWrPUeg5+FXsGTySavk2rfx3eEXaR2Vte\nx60arUVn+Ek+VQkczQdVMAthjcwPMYJXebI+xwUsc7zyP1q85rPZwget4dd+o2Sa\nuQ4DB6r5VnWxG+JaKjw1uU/SMKMlCOkQn3qPvsSixQKBgQDxjMM659Xx7Q8cLFS2\nOU69rYBuNaIqpaisuT9uuFrxu48tyBRzSCeuFsSmCPWsN8j/8z5FcKsLCnRdVCp8\nAAJkd1HuTqDCQhni569l3SxKJBGsapm8ibfFVGhwNWXaZz1Lh9q+xeQbra6Mpmmq\nf+rqTayr6pSEFCCtTBbAapyifQKBgQDKztCoddRr//h8e4whZV9pXAopwA48vsLG\nhk9sAa9LFpvIPZMBzzqa2cZsZQK0EgHsxxl6gT8Kox5ylJgHGUEgIYZ8oFI1dzyz\nFTL3I1HYYvbUbMD3rfrbhtS9/jWlCrP4p2d8SycTsgF+LpstyIkbEK9SiJZs8Uu0\nqvS2QnfkxwKBgDo6Cl3KwQH+eSP7c7gxfE+w4UKv3xWUtWJdjXLtMc8PvWX10ygu\n/pGyn1i+1CndkLBSPHKUxEZ3ELHmtg8KGYmKUc+2WH47XO4bl2ZguGpu42vCjqiq\nMgh5XmueE51gQaBRcWOHZINfjLIO823MRB6S9srCU2a7S106+EkN6hApAoGAeoXR\nh0SQTaL50vKs6OweZT+GoEx4DXjNoTQ5PS4TYdDJ0oJokrpIVI7mkkvAA1uxsANk\nwB7fICUF2wEsi3VVY/z9C8OrhsN/d02CWc4LvyeiqRj+x2NjX0aothOjAw9hRQKV\nwYCBniN3RW0QsOsq8Z/1223LOwvXydFSP94OIrcCgYEA6uYMF3JBZSe3tcEsr1kN\nw+4ySZ/kxLDJNulpAY9YzXp2IsfSoIo3fX1NXkNNo8igPTzmo6E9AqcjrrryCfPk\n/niuXWX8iCbvIr4z2pxOlUB3lt/rvGeGJFczbwCiydaSsMKto13CWp3TWpAouXtH\ngM9hr/lxRqsLmoIq8NyU3CA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sbnaw@proyecto-monterrey.iam.gserviceaccount.com",
+  "client_id": "102261709976149292199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sbnaw%40proyecto-monterrey.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
